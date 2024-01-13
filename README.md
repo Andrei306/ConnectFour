@@ -1,1 +1,3 @@
 # ConnectFour
+
+This is a 'Connect Four' game developed in C++. Players can enjoy the classic two-player strategy game by challenging a friend to a head-to-head match or opting for a solo game against the computer (Coming Soon). The game features a custom board; users can choose the number of rows and columns (6x7 is the usual board for this game). Then, they will see the columns below the board and can start playing by inserting the column's index to place the symbol ('X' or '0'). If you connect 4 symbols horizontally/vertically/diagonally, you will win. Otherwise, if the board is filled without anyone winning, it will be a draw. Good luck and have fun!
