@@ -267,7 +267,7 @@ void playConnectFour(int rows, int columns, bool vsComputer) {
 }
 
 /**
- * @brief Entry point for the 'Connect Four' game application.
+ * @brief Entry point for the 'Connect Four' game.
  */
 int main() {
     int rows, columns;
